@@ -4,7 +4,7 @@
 这里简要的对lightgbm做了下实现，实际上就是在gbdt的基础上加了点东西。<br/>
 EFB：里面的互斥特征绑定实现方式有待改进；<br/>
 GOSS：我觉的这个地方没有什么问题；<br/>
-直方图：emmm，需要改进啊！<br/>
+直方图：emmm，都会好的！<br/>
 
 Reference：<br/>
 https://github.com/Microsoft/LightGBM<br/>
